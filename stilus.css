@@ -1,0 +1,91 @@
+body{
+	
+	background-image:url("kepek/black.png");
+	font-family: Arial, Verdena, sans;
+	color: black; 
+	font-size: 10px;
+	margin:0px;
+	
+}
+
+.fejlec img{
+	width:100%;
+	
+}
+#tarolo{
+	width:90%;
+	max-width:900px;
+	
+	background-color: lightgrey;
+} 
+
+.fejlec{
+	width: 100%;
+	max-width:900px;
+	
+}
+
+#menu{
+	background-color:black;
+	width: 100%;
+	max-width: 900px;
+	margin:auto;
+	font-size:15px;
+	font-weight:bold;
+	padding:10px;
+	border: 1px solid black;
+	margin-top: 0px;
+}
+
+
+.tartalom{
+	height:90%;
+	max-height:900px;
+
+
+}
+#torol{
+	clear:both;
+}
+
+#witcher{
+	height: 200px;
+	width:200px;
+}
+
+#witcher{
+	float: right;
+	width:200px;
+	height:300px;
+}
+
+a{
+	text-decoration:none;
+	color:white;
+	font-weight:bold;
+	border:1px solid white;
+	padding:12px;
+}
+
+ a:hover{
+	background-color: orange;
+}
+
+p{
+	font-size:10px;
+	text-align:justify;
+}
+
+h1{
+	font-size:15px;
+}
+
+#lablec{
+	background-color:yellow;
+	text-align:justify;
+	
+}
+
+#lent{
+	text-align:center;
+}
